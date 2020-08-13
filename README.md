@@ -1,1 +1,0 @@
-# Diffusion-of-clean-cooking-practices-in-refugee-camps
