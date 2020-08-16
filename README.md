@@ -1,7 +1,7 @@
 # Diffusion-of-clean-cooking-practices-in-refugee-settings
 
 ## Summary
-This model was developed as part of my MSc thesis at the Engineering and Policy Analysis program at Delft University of Technology. 
+This model was developed as part of my MSc thesis in the Engineering and Policy Analysis program at Delft University of Technology. 
 The model represents a refugee camp with household agents who are connected by a social network. Grounded in innovation diffusion theory and a case study, the agents go through five decision stages, facing different adoption barriers, and ultimately decide whether or not to adopt and keep using clean cooking fuels. Interactions between agents include flows of information and social conformity effects.
 The aim is to analyse the impact of different interventions on the adoption of clean cooking fuels in refugee camps under a wider range of scenarios. 
 
