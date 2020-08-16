@@ -17,4 +17,4 @@ The exploratory analysis of the model outcomes uses the EMA workbench (https://e
 
 
 ## Further description
-A description of the model can be found in the thesis with the same name available in the TU Delft repository (https://repository.tudelft.nl/).
+A description of the model can be found in the thesis under the same name available in the TU Delft repository (https://repository.tudelft.nl/).
