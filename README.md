@@ -2,7 +2,7 @@
 
 ## Summary
 This model was developed as part of my MSc thesis at the Engineering and Policy Analysis program at Delft University of Technology. 
-The model represents a refugee camp with household agents who are connected by a social network. Grounded in innovation diffusion theory and a case study, the agents go through five decision stages, ultimately deciding whether or not to adopt and keep using clean cooking fuels. In each stage they face different adoption barriers.
+The model represents a refugee camp with household agents who are connected by a social network. Grounded in innovation diffusion theory and a case study, the agents go through five decision stages, facing different adoption barriers, and ultimately deciding whether or not to adopt and keep using clean cooking fuels. Interactions between agents include flows of information and ssocial conformity.
 The aim is to analyse the impact of different interventions on the adoption of clean cooking fuels in refugee camps under a wider range of scenarios. 
 
 The exploratory analysis of the model outcomes uses the EMA workbench (https://emaworkbench.readthedocs.io/en/latest/).
@@ -10,9 +10,9 @@ The exploratory analysis of the model outcomes uses the EMA workbench (https://e
 
 ## Files
 
-model.py: Contains the model class and the agent class.
-server.py: Defines classes for visualizing the model in the browser using Mesa's modular server. And instantiates a visualization server.
-ema.ipynb: Contains the experimentation and exploratory analysis of the model using the EMA workbench.
+* Item model.py: Contains the model class and the agent class.
+* Item server.py: Defines classes for visualizing the model in the browser using Mesa's modular server. And instantiates a visualization server.
+* Item ema.ipynb: Contains the experimentation and exploratory analysis of the model using the EMA workbench.
 
 
 ## Further description
