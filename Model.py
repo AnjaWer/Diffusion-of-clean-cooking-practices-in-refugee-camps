@@ -247,8 +247,12 @@ class Household(Agent):
 ################################################# MODEL ########################################################### 
     
 class DiffusionModel(Model):
-    """This model represents a refugee camp with households as agents. 
-    The agents go through decision stages, deciding whether or not to adopt and keep using clean cooking fuels."""
+    """This model was developed as part of a MSc thesis at the Engineering and Policy Analysis program at Delft University of Technology. 
+    The model represents a refugee camp with household agents who are connected by a social network. 
+    Grounded in innovation diffusion theory and a case study, the agents go through five decision stages, 
+    facing different adoption barriers, and ultimately decide whether or not to adopt and keep using clean cooking fuels. 
+    Interactions between agents include flows of information and social conformity effects. 
+    The aim is to analyse the impact of different interventions on the adoption of clean cooking fuels in refugee camps under a wider range of scenarios."""
     def __init__(self, seed, initial_adopters, cash_transfer, vouchers, info_campaign, maintenance_capacity, 
                  N, avg_node_degree, p_rewiring, r_discount, atp, p_bad_performance, p_imitators, p_optimizers, p_advice_seekers, 
                  p_supply_delay, price_tf, price_cf, price_shock, n_cf_price_shock):
