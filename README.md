@@ -11,9 +11,9 @@ The exploratory analysis of the model outcomes uses the EMA workbench (https://e
 
 ## Files
 
-* Item model.py: Contains the model class and the agent class.
-* Item server.py: Defines classes for visualizing the model in the browser using Mesa's modular server.
-* Item ema.ipynb: Contains the experimentation and exploratory analysis of the model using the EMA workbench.
+* model.py: Contains the model class and the agent class.
+* server.py: Defines classes for visualizing the model in the browser using Mesa's modular server.
+* ema.ipynb: Contains the experimentation and exploratory analysis of the model using the EMA workbench.
 
 
 ## Further description
