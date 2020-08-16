@@ -2,7 +2,7 @@
 
 ## Summary
 This model was developed as part of my MSc thesis at the Engineering and Policy Analysis program at Delft University of Technology. 
-The model represents a refugee camp with household agents who are connected by a social network. Adapted from innovation diffusion theory, the agents go through five decision stages, deciding whether or not to adopt and keep using clean cooking fuels.
+The model represents a refugee camp with household agents who are connected by a social network. Grounded in innovation diffusion theory and a case study, the agents go through five decision stages, ultimately deciding whether or not to adopt and keep using clean cooking fuels. In each stage they face different adoption barriers.
 The aim is to analyse the impact of different interventions on the adoption of clean cooking fuels in refugee camps under a wider range of scenarios. 
 
 The exploratory analysis of the model outcomes uses the EMA workbench (https://emaworkbench.readthedocs.io/en/latest/).
